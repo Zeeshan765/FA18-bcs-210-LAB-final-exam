@@ -1,0 +1,4 @@
+{
+    "db": "mongodb://localhost/productdata",
+    "jwtPrivateKey": "hello"
+}

@@ -1,0 +1,71 @@
+
+.pic_psl {
+  max-height: 448px;
+  object-fit: contain;
+  width: 100%;
+}
+
+
+.pic_container {
+  width: 12%;
+}
+
+.first_btn {
+  padding: 18px;
+ color: black;
+}
+
+.second_btn {
+  margin: 13px;
+  padding: 12px;
+  color:blue;
+  
+}
+.third_btn {
+  margin-top: 15px;
+  padding: 8px ;
+  font-weight: 600;
+  color: #2b2b2b;
+ 
+}
+
+.teamsinfo {
+  width: 40%;
+  margin-top: 10%;
+  margin-left: 20px;
+ 
+}
+
+.TeamData {
+  display:flex;
+}
+
+.teaminfotext {
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 5px;
+}
+.texttype{
+  margin: 2px;
+  padding: 10px;
+}
+
+.teaminfotext {
+  text-decoration: underline;
+}
+
+.text > h1 {
+  font-size: 14;
+  
+}
+
+.text> p {
+  font-size: 12;
+  
+}
+
+  
+  
+ 
+
+

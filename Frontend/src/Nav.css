@@ -1,0 +1,38 @@
+
+
+.navdata {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__black {
+  background-color: #5FD70F;
+}
+
+.navogo {
+  position: fixed;
+  top: 1px;
+  left: 0;
+  
+}
+
+.nav {
+  position: fixed;
+  padding: 20px;
+  width: 100%;
+  height: 0px;
+  
+}
+
+
+
+.navbtn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 8px 16px;
+  font-size: 0.8rem;
+ 
+  
+
+}
